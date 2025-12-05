@@ -1,0 +1,9 @@
+{
+  "packageName": "kubevirt",
+  "projectName": "kubevirt-py",
+  "packageVersion": "1.7.0",
+  "packageUrl": "https://github.com/d4rkfella/kubevirt-py",
+  
+  "gitUserId": "d4rkfella",
+  "gitRepoId": "kubevirt-py"
+}
